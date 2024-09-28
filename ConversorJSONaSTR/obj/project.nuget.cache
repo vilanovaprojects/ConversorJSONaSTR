@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbfncnpL47chrQdXCKOB1xU2xdtcn7grFOXmJtZitDT2dOlzm55HtBQgzSbT8DRjsfiK39YJsiD+1wFGGedHNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moises\\Documents\\02-TRABAJO\\AYESA\\ConversorJSONaSTR\\ConversorJSONaSTR\\ConversorJSONaSTR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moises\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
